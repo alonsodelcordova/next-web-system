@@ -40,3 +40,24 @@ a {
     color-scheme: dark;
   }
 }
+
+
+.content-login{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.form-login{
+  width: 100%;
+  max-width: 400px;
+  padding: 20px;
+  border-radius: 20px;
+  background: #63b64e;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card{
+  color: #0a0a0a;
+}
